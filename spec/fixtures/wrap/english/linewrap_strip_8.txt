@@ -1,0 +1,62 @@
+When a p
+iece of 
+code is 
+being ha
+cked by 
+three or
+four dif
+ferent p
+eople, n
+o one of
+whom rea
+lly owns
+it, it w
+ill end 
+up being
+like a c
+ommon-ro
+om. It w
+ill tend
+to feel 
+bleak an
+d abando
+ned, and
+accumula
+te cruft
+. The ri
+ght way 
+to colla
+borate, 
+I think,
+is to di
+vide pro
+jects in
+to sharp
+ly defin
+ed modul
+es, each
+with a d
+efinite 
+owner, a
+nd with 
+interfac
+es betwe
+en them 
+that are
+as caref
+ully des
+igned an
+d, if po
+ssible, 
+as artic
+ulated a
+s progra
+mming la
+nguages.
+12345678
+90_ABCDE
+FGHI_123
+4567890_
+ABCDEFGH
+I_123456
+7890!···

@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="Crystal Docs 1.8.2">
+<meta name="crystal_docs.project_version" content="v1.0.0">
+<meta name="crystal_docs.project_name" content="cythara">
+
+
+
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="js/doc.js"></script>
+
+  <meta name="repository-name" content="cythara">
+  <title>Cythara - cythara v1.0.0</title>
+  <script type="text/javascript">
+    CrystalDocs.base_path = "";
+  </script>
+</head>
+<body>
+
+<svg class="hidden">
+  <symbol id="octicon-link" viewBox="0 0 16 16">
+    <path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path>
+  </symbol>
+</svg>
+<input type="checkbox" id="sidebar-btn">
+<label for="sidebar-btn" id="sidebar-btn-label">
+  <svg class="open" xmlns="http://www.w3.org/2000/svg" height="2em" width="2em" viewBox="0 0 512 512"><title>Open Sidebar</title><path fill="currentColor" d="M80 96v64h352V96H80zm0 112v64h352v-64H80zm0 112v64h352v-64H80z"></path></svg>
+  <svg class="close" xmlns="http://www.w3.org/2000/svg" width="2em" height="2em" viewBox="0 0 512 512"><title>Close Sidebar</title><path fill="currentColor" d="m118.6 73.4-45.2 45.2L210.7 256 73.4 393.4l45.2 45.2L256 301.3l137.4 137.3 45.2-45.2L301.3 256l137.3-137.4-45.2-45.2L256 210.7Z"></path></svg>
+</label>
+<div class="sidebar">
+  <div class="sidebar-header">
+    <div class="search-box">
+      <input type="search" class="search-input" placeholder="Search..." spellcheck="false" aria-label="Search">
+    </div>
+
+    <div class="project-summary">
+      <h1 class="project-name">
+        <a href="index.html">
+          cythara
+        </a>
+      </h1>
+
+      <span class="project-version">
+        v1.0.0
+      </span>
+    </div>
+  </div>
+
+  <div class="search-results hidden">
+    <ul class="search-list"></ul>
+  </div>
+
+  <div class="types-list">
+    <ul>
+  
+  <li class=" current" data-id="cythara/Cythara" data-name="cythara">
+      <a href="Cythara.html">Cythara</a>
+      
+    </li>
+  
+  <li class=" " data-id="cythara/String" data-name="string">
+      <a href="String.html">String</a>
+      
+    </li>
+  
+</ul>
+
+  </div>
+</div>
+
+
+<div class="main-content">
+<h1 class="type-name">
+
+  <span class="kind">module</span> Cythara
+
+</h1>
+
+
+
+
+
+  <h2>
+    <a id="overview" class="anchor" href="#overview">
+  <svg class="octicon-link" aria-hidden="true">
+    <use href="#octicon-link"/>
+  </svg>
+</a>
+    Overview
+  </h2>
+
+  <p>A small collection of String helpers</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <h2>
+    <a id="defined-in" class="anchor" href="#defined-in">
+  <svg class="octicon-link" aria-hidden="true">
+    <use href="#octicon-link"/>
+  </svg>
+</a>
+    Defined in:
+  </h2>
+  
+    
+      cythara/ansi.cr
+    
+    <br/>
+  
+    
+      cythara/version.cr
+    
+    <br/>
+  
+    
+      cythara/wrap.cr
+    
+    <br/>
+  
+
+
+
+
+
+
+
+  <h2>
+    <a id="class-method-summary" class="anchor" href="#class-method-summary">
+  <svg class="octicon-link" aria-hidden="true">
+    <use href="#octicon-link"/>
+  </svg>
+</a>
+    Class Method Summary
+  </h2>
+  <ul class="list-summary">
+    
+      <li class="entry-summary">
+        <a href="#contains_ansi%3F%28string%29%3ABool-class-method" class="signature"><strong>.contains_ansi?</strong>(string) : Bool</a>
+        
+          <div class="summary"><p>Returns <em>true</em> if <code>string</code> contains ANSI escape codes.</p></div>
+        
+      </li>
+    
+      <li class="entry-summary">
+        <a href="#linewrap%28string%3AString%2Cwidth%3AInt32%2Cstrip_leading_space%3Dtrue%29%3AArray%28String%29-class-method" class="signature"><strong>.linewrap</strong>(string : String, width : Int32, strip_leading_space = <span class="n">true</span>) : Array(String)</a>
+        
+          <div class="summary"><p>Returns a line-wrapped representation of <code>string</code>.</p></div>
+        
+      </li>
+    
+      <li class="entry-summary">
+        <a href="#strip_ansi%28string%29%3AString-class-method" class="signature"><strong>.strip_ansi</strong>(string) : String</a>
+        
+          <div class="summary"><p>Returns <code>string</code> with all ANSI escape codes removed.</p></div>
+        
+      </li>
+    
+      <li class="entry-summary">
+        <a href="#wordwrap%28string%3AString%2Cwidth%3AInt32%2Cseparators%3D%5B%27%27%2C%27%5Cn%27%5D%2Cbreakers%3D%5B%27-%27%5D%29%3AArray%28String%29-class-method" class="signature"><strong>.wordwrap</strong>(string : String, width : Int32, separators = [<span class="s">&#39; &#39;</span>, <span class="s">&#39;\n&#39;</span>], breakers = [<span class="s">&#39;-&#39;</span>]) : Array(String)</a>
+        
+          <div class="summary"><p>Returns a word-wrapped representation of <code>string</code>.</p></div>
+        
+      </li>
+    
+  </ul>
+
+
+
+
+
+
+
+<div class="methods-inherited">
+  
+</div>
+
+
+
+
+  <h2>
+    <a id="class-method-detail" class="anchor" href="#class-method-detail">
+  <svg class="octicon-link" aria-hidden="true">
+    <use href="#octicon-link"/>
+  </svg>
+</a>
+    Class Method Detail
+  </h2>
+  
+    <div class="entry-detail" id="contains_ansi?(string):Bool-class-method">
+      <div class="signature">
+        
+        def self.<strong>contains_ansi?</strong>(string) : Bool
+
+        <a class="method-permalink" href="#contains_ansi%3F%28string%29%3ABool-class-method">#</a>
+      </div>
+      
+        <div class="doc">
+          
+          <p>Returns <em>true</em> if <code>string</code> contains ANSI escape codes.</p>
+        </div>
+      
+      <br/>
+      <div>
+        
+      </div>
+    </div>
+  
+    <div class="entry-detail" id="linewrap(string:String,width:Int32,strip_leading_space=true):Array(String)-class-method">
+      <div class="signature">
+        
+        def self.<strong>linewrap</strong>(string : <a href="String.html">String</a>, width : Int32, strip_leading_space = <span class="n">true</span>) : Array(<a href="String.html">String</a>)
+
+        <a class="method-permalink" href="#linewrap%28string%3AString%2Cwidth%3AInt32%2Cstrip_leading_space%3Dtrue%29%3AArray%28String%29-class-method">#</a>
+      </div>
+      
+        <div class="doc">
+          
+          <p>Returns a line-wrapped representation of <code>string</code>.</p>
+<p><strong>Examples:</strong></p>
+<pre><code class="language-crystal"><span class="t">Cythara</span>.linewrap(<span class="s">&quot;The quick brown fox&quot;</span>, <span class="n">6</span>)        <span class="o">=&gt;</span> [<span class="s">&quot;The qu&quot;</span>, <span class="s">&quot;ick br&quot;</span>, <span class="s">&quot;own fo&quot;</span>, <span class="s">&quot;x&quot;</span>]
+<span class="t">Cythara</span>.linewrap(<span class="s">&quot;The quick brown fox&quot;</span>, <span class="n">15</span>)       <span class="o">=&gt;</span> [<span class="s">&quot;The quick brown&quot;</span>, <span class="s">&quot;fox&quot;</span>]
+<span class="t">Cythara</span>.linewrap(<span class="s">&quot;The quick brown fox&quot;</span>, <span class="n">15</span>, <span class="n">false</span>) <span class="o">=&gt;</span> [<span class="s">&quot;The quick brown&quot;</span>, <span class="s">&quot; fox&quot;</span>]</code></pre>
+        </div>
+      
+      <br/>
+      <div>
+        
+      </div>
+    </div>
+  
+    <div class="entry-detail" id="strip_ansi(string):String-class-method">
+      <div class="signature">
+        
+        def self.<strong>strip_ansi</strong>(string) : <a href="String.html">String</a>
+
+        <a class="method-permalink" href="#strip_ansi%28string%29%3AString-class-method">#</a>
+      </div>
+      
+        <div class="doc">
+          
+          <p>Returns <code>string</code> with all ANSI escape codes removed.</p>
+        </div>
+      
+      <br/>
+      <div>
+        
+      </div>
+    </div>
+  
+    <div class="entry-detail" id="wordwrap(string:String,width:Int32,separators=[&#39;&#39;,&#39;\n&#39;],breakers=[&#39;-&#39;]):Array(String)-class-method">
+      <div class="signature">
+        
+        def self.<strong>wordwrap</strong>(string : <a href="String.html">String</a>, width : Int32, separators = [<span class="s">&#39; &#39;</span>, <span class="s">&#39;\n&#39;</span>], breakers = [<span class="s">&#39;-&#39;</span>]) : Array(<a href="String.html">String</a>)
+
+        <a class="method-permalink" href="#wordwrap%28string%3AString%2Cwidth%3AInt32%2Cseparators%3D%5B%27%27%2C%27%5Cn%27%5D%2Cbreakers%3D%5B%27-%27%5D%29%3AArray%28String%29-class-method">#</a>
+      </div>
+      
+        <div class="doc">
+          
+          <p>Returns a word-wrapped representation of <code>string</code>.</p>
+<p><strong>Example:</strong></p>
+<pre><code class="language-crystal"><span class="t">Cythara</span>.wordwrap(<span class="s">&quot;The quick brown fox&quot;</span>, <span class="n">11</span>) <span class="o">=&gt;</span> [<span class="s">&quot;The quick&quot;</span>, <span class="s">&quot;brown fox&quot;</span>]</code></pre>
+        </div>
+      
+      <br/>
+      <div>
+        
+      </div>
+    </div>
+  
+
+
+
+
+
+
+</div>
+
+</body>
+</html>

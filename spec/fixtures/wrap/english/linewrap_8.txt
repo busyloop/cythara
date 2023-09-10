@@ -1,0 +1,63 @@
+When a p
+iece of 
+code is 
+being ha
+cked by 
+three or
+ four di
+fferent 
+people, 
+no one o
+f whom r
+eally ow
+ns it, i
+t will e
+nd up be
+ing like
+ a commo
+n-room. 
+It will 
+tend to 
+feel ble
+ak and a
+bandoned
+, and ac
+cumulate
+ cruft. 
+The righ
+t way to
+ collabo
+rate, I 
+think, i
+s to div
+ide proj
+ects int
+o sharpl
+y define
+d module
+s, each 
+with a d
+efinite 
+owner, a
+nd with 
+interfac
+es betwe
+en them 
+that are
+ as care
+fully de
+signed a
+nd, if p
+ossible,
+ as arti
+culated 
+as progr
+amming l
+anguages
+. 123456
+7890_ABC
+DEFGHI_1
+23456789
+0_ABCDEF
+GHI_1234
+567890!·

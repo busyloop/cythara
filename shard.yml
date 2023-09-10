@@ -1,0 +1,22 @@
+name: cythara
+version: 1.0.0
+
+authors:
+  - moe <moe@busyloop.net>
+
+crystal: &crystal_version 1.9.2
+
+license: MIT
+
+support_matrix:
+  crystal_versions:
+    - *crystal_version
+
+  platforms:
+    - ubuntu-latest
+    - macos-latest
+
+development_dependencies:
+  ameba:
+    github: crystal-ameba/ameba
+

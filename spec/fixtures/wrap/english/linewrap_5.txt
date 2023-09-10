@@ -1,0 +1,101 @@
+When 
+a pie
+ce of
+ code
+ is b
+eing 
+hacke
+d by 
+three
+ or f
+our d
+iffer
+ent p
+eople
+, no 
+one o
+f who
+m rea
+lly o
+wns i
+t, it
+ will
+ end 
+up be
+ing l
+ike a
+ comm
+on-ro
+om. I
+t wil
+l ten
+d to 
+feel 
+bleak
+ and 
+aband
+oned,
+ and 
+accum
+ulate
+ cruf
+t. Th
+e rig
+ht wa
+y to 
+colla
+borat
+e, I 
+think
+, is 
+to di
+vide 
+proje
+cts i
+nto s
+harpl
+y def
+ined 
+modul
+es, e
+ach w
+ith a
+ defi
+nite 
+owner
+, and
+ with
+ inte
+rface
+s bet
+ween 
+them 
+that 
+are a
+s car
+efull
+y des
+igned
+ and,
+ if p
+ossib
+le, a
+s art
+icula
+ted a
+s pro
+gramm
+ing l
+angua
+ges. 
+12345
+67890
+_ABCD
+EFGHI
+_1234
+56789
+0_ABC
+DEFGH
+I_123
+45678
+90!··

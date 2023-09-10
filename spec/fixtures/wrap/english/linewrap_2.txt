@@ -1,0 +1,252 @@
+Wh
+en
+ a
+ p
+ie
+ce
+ o
+f 
+co
+de
+ i
+s 
+be
+in
+g 
+ha
+ck
+ed
+ b
+y 
+th
+re
+e 
+or
+ f
+ou
+r 
+di
+ff
+er
+en
+t 
+pe
+op
+le
+, 
+no
+ o
+ne
+ o
+f 
+wh
+om
+ r
+ea
+ll
+y 
+ow
+ns
+ i
+t,
+ i
+t 
+wi
+ll
+ e
+nd
+ u
+p 
+be
+in
+g 
+li
+ke
+ a
+ c
+om
+mo
+n-
+ro
+om
+. 
+It
+ w
+il
+l 
+te
+nd
+ t
+o 
+fe
+el
+ b
+le
+ak
+ a
+nd
+ a
+ba
+nd
+on
+ed
+, 
+an
+d 
+ac
+cu
+mu
+la
+te
+ c
+ru
+ft
+. 
+Th
+e 
+ri
+gh
+t 
+wa
+y 
+to
+ c
+ol
+la
+bo
+ra
+te
+, 
+I 
+th
+in
+k,
+ i
+s 
+to
+ d
+iv
+id
+e 
+pr
+oj
+ec
+ts
+ i
+nt
+o 
+sh
+ar
+pl
+y 
+de
+fi
+ne
+d 
+mo
+du
+le
+s,
+ e
+ac
+h 
+wi
+th
+ a
+ d
+ef
+in
+it
+e 
+ow
+ne
+r,
+ a
+nd
+ w
+it
+h 
+in
+te
+rf
+ac
+es
+ b
+et
+we
+en
+ t
+he
+m 
+th
+at
+ a
+re
+ a
+s 
+ca
+re
+fu
+ll
+y 
+de
+si
+gn
+ed
+ a
+nd
+, 
+if
+ p
+os
+si
+bl
+e,
+ a
+s 
+ar
+ti
+cu
+la
+te
+d 
+as
+ p
+ro
+gr
+am
+mi
+ng
+ l
+an
+gu
+ag
+es
+. 
+12
+34
+56
+78
+90
+_A
+BC
+DE
+FG
+HI
+_1
+23
+45
+67
+89
+0_
+AB
+CD
+EF
+GH
+I_
+12
+34
+56
+78
+90
+!·

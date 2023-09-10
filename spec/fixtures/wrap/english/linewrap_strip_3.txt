@@ -1,0 +1,163 @@
+Whe
+n a
+pie
+ce 
+of 
+cod
+e i
+s b
+ein
+g h
+ack
+ed 
+by 
+thr
+ee 
+or 
+fou
+r d
+iff
+ere
+nt 
+peo
+ple
+, n
+o o
+ne 
+of 
+who
+m r
+eal
+ly 
+own
+s i
+t, 
+it 
+wil
+l e
+nd 
+up 
+bei
+ng 
+lik
+e a
+com
+mon
+-ro
+om.
+It 
+wil
+l t
+end
+to 
+fee
+l b
+lea
+k a
+nd 
+aba
+ndo
+ned
+, a
+nd 
+acc
+umu
+lat
+e c
+ruf
+t. 
+The
+rig
+ht 
+way
+to 
+col
+lab
+ora
+te,
+I t
+hin
+k, 
+is 
+to 
+div
+ide
+pro
+jec
+ts 
+int
+o s
+har
+ply
+def
+ine
+d m
+odu
+les
+, e
+ach
+wit
+h a
+def
+ini
+te 
+own
+er,
+and
+wit
+h i
+nte
+rfa
+ces
+bet
+wee
+n t
+hem
+tha
+t a
+re 
+as 
+car
+efu
+lly
+des
+ign
+ed 
+and
+, i
+f p
+oss
+ibl
+e, 
+as 
+art
+icu
+lat
+ed 
+as 
+pro
+gra
+mmi
+ng 
+lan
+gua
+ges
+. 1
+234
+567
+890
+_AB
+CDE
+FGH
+I_1
+234
+567
+890
+_AB
+CDE
+FGH
+I_1
+234
+567
+890
+!··

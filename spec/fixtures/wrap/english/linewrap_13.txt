@@ -1,0 +1,39 @@
+When a piece 
+of code is be
+ing hacked by
+ three or fou
+r different p
+eople, no one
+ of whom real
+ly owns it, i
+t will end up
+ being like a
+ common-room.
+ It will tend
+ to feel blea
+k and abandon
+ed, and accum
+ulate cruft. 
+The right way
+ to collabora
+te, I think, 
+is to divide 
+projects into
+ sharply defi
+ned modules, 
+each with a d
+efinite owner
+, and with in
+terfaces betw
+een them that
+ are as caref
+ully designed
+ and, if poss
+ible, as arti
+culated as pr
+ogramming lan
+guages. 12345
+67890_ABCDEFG
+HI_1234567890
+_ABCDEFGHI_12
+34567890!····

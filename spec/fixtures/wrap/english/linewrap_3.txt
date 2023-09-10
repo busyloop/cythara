@@ -1,0 +1,168 @@
+Whe
+n a
+ pi
+ece
+ of
+ co
+de 
+is 
+bei
+ng 
+hac
+ked
+ by
+ th
+ree
+ or
+ fo
+ur 
+dif
+fer
+ent
+ pe
+opl
+e, 
+no 
+one
+ of
+ wh
+om 
+rea
+lly
+ ow
+ns 
+it,
+ it
+ wi
+ll 
+end
+ up
+ be
+ing
+ li
+ke 
+a c
+omm
+on-
+roo
+m. 
+It 
+wil
+l t
+end
+ to
+ fe
+el 
+ble
+ak 
+and
+ ab
+and
+one
+d, 
+and
+ ac
+cum
+ula
+te 
+cru
+ft.
+ Th
+e r
+igh
+t w
+ay 
+to 
+col
+lab
+ora
+te,
+ I 
+thi
+nk,
+ is
+ to
+ di
+vid
+e p
+roj
+ect
+s i
+nto
+ sh
+arp
+ly 
+def
+ine
+d m
+odu
+les
+, e
+ach
+ wi
+th 
+a d
+efi
+nit
+e o
+wne
+r, 
+and
+ wi
+th 
+int
+erf
+ace
+s b
+etw
+een
+ th
+em 
+tha
+t a
+re 
+as 
+car
+efu
+lly
+ de
+sig
+ned
+ an
+d, 
+if 
+pos
+sib
+le,
+ as
+ ar
+tic
+ula
+ted
+ as
+ pr
+ogr
+amm
+ing
+ la
+ngu
+age
+s. 
+123
+456
+789
+0_A
+BCD
+EFG
+HI_
+123
+456
+789
+0_A
+BCD
+EFG
+HI_
+123
+456
+789
+0!·

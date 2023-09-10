@@ -1,0 +1,15 @@
+When a piece of code is being hack
+ed by three or four different peop
+le, no one of whom really owns it,
+ it will end up being like a commo
+n-room. It will tend to feel bleak
+ and abandoned, and accumulate cru
+ft. The right way to collaborate, 
+I think, is to divide projects int
+o sharply defined modules, each wi
+th a definite owner, and with inte
+rfaces between them that are as ca
+refully designed and, if possible,
+ as articulated as programming lan
+guages. 1234567890_ABCDEFGHI_12345
+67890_ABCDEFGHI_1234567890!·······

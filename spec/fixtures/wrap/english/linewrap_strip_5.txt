@@ -1,0 +1,99 @@
+When 
+a pie
+ce of
+code 
+is be
+ing h
+acked
+by th
+ree o
+r fou
+r dif
+feren
+t peo
+ple, 
+no on
+e of 
+whom 
+reall
+y own
+s it,
+it wi
+ll en
+d up 
+being
+like 
+a com
+mon-r
+oom. 
+It wi
+ll te
+nd to
+feel 
+bleak
+and a
+bando
+ned, 
+and a
+ccumu
+late 
+cruft
+. The
+right
+way t
+o col
+labor
+ate, 
+I thi
+nk, i
+s to 
+divid
+e pro
+jects
+into 
+sharp
+ly de
+fined
+modul
+es, e
+ach w
+ith a
+defin
+ite o
+wner,
+and w
+ith i
+nterf
+aces 
+betwe
+en th
+em th
+at ar
+e as 
+caref
+ully 
+desig
+ned a
+nd, i
+f pos
+sible
+, as 
+artic
+ulate
+d as 
+progr
+ammin
+g lan
+guage
+s. 12
+34567
+890_A
+BCDEF
+GHI_1
+23456
+7890_
+ABCDE
+FGHI_
+12345
+67890
+!····

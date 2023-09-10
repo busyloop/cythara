@@ -1,0 +1,39 @@
+When a piece 
+of code is be
+ing hacked by
+three or four
+different peo
+ple, no one o
+f whom really
+owns it, it w
+ill end up be
+ing like a co
+mmon-room. It
+will tend to 
+feel bleak an
+d abandoned, 
+and accumulat
+e cruft. The 
+right way to 
+collaborate, 
+I think, is t
+o divide proj
+ects into sha
+rply defined 
+modules, each
+with a defini
+te owner, and
+with interfac
+es between th
+em that are a
+s carefully d
+esigned and, 
+if possible, 
+as articulate
+d as programm
+ing languages
+. 1234567890_
+ABCDEFGHI_123
+4567890_ABCDE
+FGHI_12345678
+90!··········

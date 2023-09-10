@@ -1,0 +1,73 @@
+When a··
+piece of
+code is·
+being···
+hacked··
+by three
+or four·
+differen
+t·······
+people,·
+no one··
+of whom·
+really··
+owns it,
+it will·
+end up··
+being···
+like a··
+common-·
+room. It
+will····
+tend to·
+feel····
+bleak···
+and·····
+abandone
+d, and··
+accumula
+te······
+cruft.··
+The·····
+right···
+way to··
+collabor
+ate, I··
+think,··
+is to···
+divide··
+projects
+into····
+sharply·
+defined·
+modules,
+each····
+with a··
+definite
+owner,··
+and with
+interfac
+es······
+between·
+them····
+that are
+as······
+carefull
+y·······
+designed
+and, if·
+possible
+, as····
+articula
+ted as··
+programm
+ing·····
+language
+s.······
+12345678
+90_ABCDE
+FGHI_123
+4567890_
+ABCDEFGH
+I_123456
+7890!···

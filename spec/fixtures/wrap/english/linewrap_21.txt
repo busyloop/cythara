@@ -1,0 +1,24 @@
+When a piece of code 
+is being hacked by th
+ree or four different
+ people, no one of wh
+om really owns it, it
+ will end up being li
+ke a common-room. It 
+will tend to feel ble
+ak and abandoned, and
+ accumulate cruft. Th
+e right way to collab
+orate, I think, is to
+ divide projects into
+ sharply defined modu
+les, each with a defi
+nite owner, and with 
+interfaces between th
+em that are as carefu
+lly designed and, if 
+possible, as articula
+ted as programming la
+nguages. 1234567890_A
+BCDEFGHI_1234567890_A
+BCDEFGHI_1234567890!·
